@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 103">
+    <path d="M47.4 0C21.2 0 0 21.2 0 47.3c0 26.1 21.2 47.3 47.4 47.3s47.4-21.2 47.4-47.3C94.7 21.2 73.5 0 47.4 0z">
+</path>
+<ellipse class="svg__background" fill="#00a3fe" cx="47.4" cy="47.3" rx="41.6" ry="41.6">
+</ellipse>
+<path class="svg__inner-arrow" fill="white" d="M15.2 47.6l34.5 28.5V63.8l21.9 2.4V27.7l-21.8 4.2v-13z">
+</path>
+</svg>
