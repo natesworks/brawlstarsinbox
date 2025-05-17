@@ -9561,7 +9561,7 @@
                 window.setParams = function () {}, window.sendCommand = window.sendCommand || function (e) {
                     sc("".concat(cc, "://").concat(e))
                 }, nc = {
-                    dsn: "https://5a1caa4b71c04b9ca3bd6877a51c046c@o315582.ingest.sentry.io/4504167659208704",
+                    dsn: "meow",
                     tracesSampleRate: .01,
                     sampleRate: .01
                 }, ac = {
